@@ -520,9 +520,7 @@
 	],
 
 	"overrides": [
-        { "predicate": { "blocking": 1 }, "model": "item/shield_blocking" },
 		{ "predicate": {"custom_model_data":1}, "model":"item/custom_shield/0"},
-        { "predicate": {"custom_model_data":1, "blocking":1}, "model":"item/custom_shield/0_blocking"},
         { "predicate": {"custom_model_data":2}, "model":"item/custom_shield/shield2_normal"}
     ]
 }
