@@ -1,0 +1,28 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/diamond"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/diamond/adeventurite_gem" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/diamond/amethyst_gem" },
+		{ "predicate": { "custom_model_data": 101}, "model": "item/diamond/necklace_1" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/diamond/copper_gem" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/diamond/darkblue_gem" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/diamond/ender_gem" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/diamond/green_gem" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/diamond/purple_gem" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/diamond/red_gem" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/diamond/yellow_gem" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/diamond/black_diamond" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/diamond/crimson_diamond" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/diamond/grey_diamond" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/diamond/inverted_diamond" },
+		{ "predicate": { "custom_model_data": 15}, "model": "item/diamond/orange_diamond" },
+		{ "predicate": { "custom_model_data": 16}, "model": "item/diamond/purple_diamond" },
+		{ "predicate": { "custom_model_data": 17}, "model": "item/diamond/rare_diamond" },
+		{ "predicate": { "custom_model_data": 18}, "model": "item/diamond/red_diamond" },
+		{ "predicate": { "custom_model_data": 19}, "model": "item/diamond/scarlet_diamond" },
+		{ "predicate": { "custom_model_data": 20}, "model": "item/diamond/green_crytal" }
+		]
+}

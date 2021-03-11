@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "up": "block/custom/115",
+		"down": "block/custom/115",
+		"south": "block/custom/115",
+        "north": "block/custom/116",
+        "west": "block/custom/116",
+        "east": "block/custom/117"
+    }
+}

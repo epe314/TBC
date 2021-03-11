@@ -1,0 +1,554 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	"overrides": [
+		{
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "item/paper/strength_icon"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "item/paper/tracker_icon"
+	},
+	{
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "item/paper/book_icon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "item/paper/luck_icon"
+	},
+	{
+      "predicate": {
+        "custom_model_data": 105
+      },
+      "model": "item/paper/shield_icon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "item/paper/shooter_icon"
+	},
+	{
+      "predicate": {
+        "custom_model_data": 107
+      },
+      "model": "item/paper/lightning_icon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 108
+      },
+      "model": "item/paper/sword_blood_icon"
+	},
+	{
+      "predicate": {
+        "custom_model_data": 109
+      },
+      "model": "item/paper/karma_icon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110
+      },
+      "model": "item/paper/supportive_icon"
+	},
+	{
+      "predicate": {
+        "custom_model_data": 111
+      },
+      "model": "item/paper/brain_icon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 112
+      },
+      "model": "item/paper/star_icon"
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 113
+      },
+      "model": "item/paper/book_icon_final"
+  },
+  {
+      "predicate": {
+        "custom_model_data": 114
+      },
+      "model": "item/paper/crossed_swords_final"
+	},
+	{
+      "predicate": {
+        "custom_model_data": 115
+      },
+      "model": "item/paper/crossedswords_swords_png_clipart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 116
+      },
+      "model": "item/paper/home_icon_final"
+	},
+	{
+      "predicate": {
+        "custom_model_data": 117
+      },
+      "model": "item/paper/locked_padlock_v1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 118
+      },
+      "model": "item/paper/locked_padlock_v2"
+	},
+	{
+      "predicate": {
+        "custom_model_data": 119
+      },
+      "model": "item/paper/locked_padlock_v3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120
+      },
+      "model": "item/paper/potion_bottle_icon_final"
+	},
+	{
+      "predicate": {
+        "custom_model_data": 121
+      },
+      "model": "item/paper/question_mark_icon_final"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 122
+      },
+      "model": "item/paper/quiver_icon_final"
+	},
+	{
+      "predicate": {
+        "custom_model_data": 123
+      },
+      "model": "item/paper/rabbit_icon_final"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 124
+      },
+      "model": "item/paper/unlocked_padlock_v1"
+    },
+    	{
+      "predicate": {
+        "custom_model_data": 125
+      },
+      "model": "item/paper/unlocked_padlock_v2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 126
+      },
+      "model": "item/paper/world_final_icon"
+	},
+	{
+      "predicate": {
+        "custom_model_data": 127
+      },
+      "model": "item/paper/x_icon_final"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 128
+      },
+      "model": "item/paper/yoingyand_v1"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 129
+    },
+    "model": "item/paper/sword"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 130
+    },
+    "model": "item/paper/quiver_icon_final"
+},
+{
+    "predicate": {
+      "custom_model_data": 131
+    },
+    "model": "item/paper/rabbit_icon_final"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 132
+    },
+    "model": "item/paper/unlocked_padlock_v1"
+  },
+    {
+    "predicate": {
+      "custom_model_data": 133
+    },
+    "model": "item/paper/unlocked_padlock_v2"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 134
+    },
+    "model": "item/paper/world_final_icon"
+},
+{
+    "predicate": {
+      "custom_model_data": 135
+    },
+    "model": "item/paper/x_icon_final"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 136
+    },
+    "model": "item/paper/yoingyand_v1"
+},
+{
+  "predicate": {
+    "custom_model_data": 137
+  },
+  "model": "item/paper/basic_sword"
+},
+{
+  "predicate": {
+    "custom_model_data": 138
+  },
+  "model": "item/paper/blue_sword"
+},
+{
+  "predicate": {
+    "custom_model_data": 139
+  },
+  "model": "item/paper/blue_sword_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 140
+  },
+  "model": "item/paper/blue_sword_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 141
+  },
+  "model": "item/paper/red_sword"
+},
+{
+  "predicate": {
+    "custom_model_data": 142
+  },
+  "model": "item/paper/red_sword_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 143
+  },
+  "model": "item/paper/red_sword_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 144
+  },
+  "model": "item/paper/teal_sword"
+},
+{
+  "predicate": {
+    "custom_model_data": 145
+  },
+  "model": "item/paper/teal_sword_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 146
+  },
+  "model": "item/paper/teal_sword_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 147
+  },
+  "model": "item/paper/pink_sword"
+},
+{
+  "predicate": {
+    "custom_model_data": 148
+  },
+  "model": "item/paper/pink_sword_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 149
+  },
+  "model": "item/paper/pink_sword_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 150
+  },
+  "model": "item/paper/orange_sword"
+},
+{
+  "predicate": {
+    "custom_model_data": 151
+  },
+  "model": "item/paper/orange_sword_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 152
+  },
+  "model": "item/paper/orange_sword_lighting"
+},
+{
+  "predicate": {
+    "custom_model_data": 153
+  },
+  "model": "item/paper/grey_sword"
+},
+{
+  "predicate": {
+    "custom_model_data": 154
+  },
+  "model": "item/paper/grey_sword_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 155
+  },
+  "model": "item/paper/grey_sword_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 156
+  },
+  "model": "item/paper/green_sword"
+},
+{
+  "predicate": {
+    "custom_model_data": 157
+  },
+  "model": "item/paper/green_sword_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 158
+  },
+  "model": "item/paper/green_sword_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 159
+  },
+  "model": "item/paper/blue_sword"
+},
+{
+  "predicate": {
+    "custom_model_data": 160
+  },
+  "model": "item/paper/blue_sword_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 161
+  },
+  "model": "item/paper/blue_sword_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 162
+  },
+  "model": "item/paper/basic_sword"
+},
+{
+  "predicate": {
+    "custom_model_data": 163
+  },
+  "model": "item/paper/basic_sword_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 164
+  },
+  "model": "item/paper/basic_sword_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 165
+  },
+  "model": "item/paper/basic_shield"
+},
+{
+  "predicate": {
+    "custom_model_data": 166
+  },
+  "model": "item/paper/basic_shield_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 167
+  },
+  "model": "item/paper/basic_shield_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 168
+  },
+  "model": "item/paper/blue_shield"
+},
+{
+  "predicate": {
+    "custom_model_data": 169
+  },
+  "model": "item/paper/blue_shield_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 170
+  },
+  "model": "item/paper/blue_shield_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 171
+  },
+  "model": "item/paper/green_shield"
+},
+{
+  "predicate": {
+    "custom_model_data": 172
+  },
+  "model": "item/paper/green_shield_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 173
+  },
+  "model": "item/paper/green_shield_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 174
+  },
+  "model": "item/paper/grey_shield"
+},
+{
+  "predicate": {
+    "custom_model_data": 175
+  },
+  "model": "item/paper/grey_shield_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 176
+  },
+  "model": "item/paper/grey_shield_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 177
+  },
+  "model": "item/paper/orange_shield"
+},
+{
+  "predicate": {
+    "custom_model_data": 178
+  },
+  "model": "item/paper/orange_shield_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 179
+  },
+  "model": "item/paper/orange_shield_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 180
+  },
+  "model": "item/paper/pink_shield"
+},
+{
+  "predicate": {
+    "custom_model_data": 181
+  },
+  "model": "item/paper/pink_shield_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 182
+  },
+  "model": "item/paper/pink_shield_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 183
+  },
+  "model": "item/paper/red_shield"
+},
+{
+  "predicate": {
+    "custom_model_data": 184
+  },
+  "model": "item/paper/red_shield_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 185
+  },
+  "model": "item/paper/red_shield_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 186
+  },
+  "model": "item/paper/teal_shield"
+},
+{
+  "predicate": {
+    "custom_model_data": 187
+  },
+  "model": "item/paper/teal_shield_haze"
+},
+{
+  "predicate": {
+    "custom_model_data": 188
+  },
+  "model": "item/paper/teal_shield_lightning"
+},
+{
+  "predicate": {
+    "custom_model_data": 189
+  },
+  "model": "item/paper/rolled_scroll_blank"
+},
+{
+  "predicate": {
+    "custom_model_data": 190
+  },
+  "model": "item/paper/unrolled_scroll_blank"
+}
+
+  ]
+}
+		
+
+		
+

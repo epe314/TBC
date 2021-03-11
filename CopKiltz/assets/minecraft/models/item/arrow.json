@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld_rod",
+	"textures": {
+	"layer0": "item/arrow"
+	},
+	
+	"overrides": [
+	{"predicate": {"custom_model_data":101}, "model": "item/arrow/blue_arrow"},
+	{"predicate": {"custom_model_data":102}, "model": "item/arrow/blue_arrow"}
+	]
+   }

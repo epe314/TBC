@@ -1,0 +1,20 @@
+{   "parent": "block/thin_block",
+    "textures": {
+         "particle": "block/spruce_trapdoor",
+      "texture": "block/spruce_trapdoor",
+        "2": "extrablocks/trapdoor_side"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 2, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0,  0, 16, 16 ], "texture": "#texture", "cullface": "down" },
+                "up":    { "uv": [ 0,  16, 16, 0 ], "texture": "#texture" },
+                "north": { "uv": [ 0, 4, 16, 6 ], "texture": "#2", "cullface": "north" },
+                "south": { "uv": [ 0, 4, 16, 6 ], "texture": "#2", "cullface": "south" },
+                "west":  { "uv": [ 0, 6, 16, 8 ], "texture": "#2", "cullface": "west" },
+                "east":  { "uv": [ 16, 6, 0, 8 ], "texture": "#2", "cullface": "east" }
+            }
+        }
+    ]
+}

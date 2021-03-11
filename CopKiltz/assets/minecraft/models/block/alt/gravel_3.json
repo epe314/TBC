@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "gaf/block/nature/mineral/alt/gravel_3"
+    }
+}

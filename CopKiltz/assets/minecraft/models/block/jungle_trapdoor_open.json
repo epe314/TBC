@@ -1,0 +1,20 @@
+{
+    "textures": {
+        "particle": "block/jungle_trapdoor",
+      "texture": "block/jungle_trapdoor",
+        "2": "extrablocks/trapdoor_side"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 14 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [  0,  12, 16, 14 ], "texture": "#2", "cullface": "down" },
+                "up":    { "uv": [  0,  14, 16, 12 ], "texture": "#2", "cullface": "up" },
+                "north": { "uv": [  0, 16, 16, 0 ], "texture": "#texture" },
+                "south": { "uv": [  0, 16, 16, 0 ], "texture": "#texture", "cullface": "south" },
+                "west":  { "uv": [  0,  14, 16, 16 ], "rotation": 90, "texture": "#2", "cullface": "west" },
+                "east":  { "uv": [  0,  16, 16, 14 ], "rotation": 90, "texture": "#2", "cullface": "east" }
+            }
+        }
+    ]
+}

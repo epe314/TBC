@@ -1,0 +1,45 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/ender_pearl"
+	},
+	"overrides": [
+	{
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/ender_pearl/mysterious_amulet"
+    },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/ender_pearl/1" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/ender_pearl/2" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/ender_pearl/3" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/ender_pearl/4" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/ender_pearl/5" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/ender_pearl/6" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/ender_pearl/7" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/ender_pearl/8" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/ender_pearl/9" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/ender_pearl/10" },
+	{
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/ender_pearl/energy_orb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/ender_pearl/small_energy_capsule"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "item/ender_pearl/energy_capsule"
+    },
+	{ "predicate": { "custom_model_data": 15}, "model": "item/ender_pearl/11" },
+	{ "predicate": { "custom_model_data": 16}, "model": "item/ender_pearl/12" },
+	{ "predicate": { "custom_model_data": 17}, "model": "item/ender_pearl/13" }
+		]
+}

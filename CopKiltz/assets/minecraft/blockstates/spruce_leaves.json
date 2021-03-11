@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [ { "model": "block/spruce_leaves" },
+	    { "model": "flora_alt/spruce_leaves_mirrored" }
+]
+    }
+}

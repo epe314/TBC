@@ -1,0 +1,15 @@
+{
+"__comment":"@GuiduusRC",
+
+"parent": "item/diamond_hoe",
+"textures": {
+    "layer0": "item/diamond_hoe"
+},
+
+    "overrides": [
+        {
+            "predicate": { "customModelData:": 1},
+            "model": "diamond_hoe/sword_hoe"
+        }
+    ]
+}

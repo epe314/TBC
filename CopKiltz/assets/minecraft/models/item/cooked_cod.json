@@ -1,0 +1,16 @@
+{
+	"__comment": "Made by Gunging. You know, I will probably not mind teaching you how to do this. https://discord.gg/E9ZcKf9",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cooked_cod"
+	},
+	
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1337
+			},
+			"model": "item/source_models/rainbow_carp_cooked"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "extrablocks/alternative/polished_diorite_2"
+    }
+}

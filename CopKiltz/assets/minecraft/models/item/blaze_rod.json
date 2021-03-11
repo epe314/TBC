@@ -1,0 +1,16 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/blaze_rod"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/blaze_rod/black_steel_rod" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/blaze_rod/copper_rod" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/blaze_rod/steel_rod" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/blaze_rod/amulet_of_power" },
+		{ "predicate": { "custom_model_data": 101}, "model": "item/blaze_rod/red_rod" },
+		{ "predicate": { "custom_model_data": 102}, "model": "item/blaze_rod/purple_rod" },
+		{ "predicate": { "custom_model_data": 103}, "model": "item/blaze_rod/gray_rod" },
+		{ "predicate": { "custom_model_data": 104}, "model": "item/blaze_rod/yellow_rod" }
+		]
+}

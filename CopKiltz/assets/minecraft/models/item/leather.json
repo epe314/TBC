@@ -1,0 +1,74 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/leather"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/leather/"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/feather/turquoise_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/feather/purple_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/feather/blue_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/feather/black_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/feather/brown_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/feather/jack_o_lantern_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/feather/dark_jack_o_lantern_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/feather/spider_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/feather/cave_spider_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/feather/bones_backpack"
+    }
+  ]
+}

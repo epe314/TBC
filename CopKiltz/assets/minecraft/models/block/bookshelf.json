@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "extrablocks/library/custom_bookshelf_top",
+        "side": "block/bookshelf"
+    }
+}

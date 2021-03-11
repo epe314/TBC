@@ -1,0 +1,20 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/blaze_powder"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/blaze_powder/common_essence" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/blaze_powder/uncommon_essence" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/blaze_powder/rare_essence" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/blaze_powder/veryrare_essence" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/blaze_powder/epic_essence" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/blaze_powder/magical_essence" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/blaze_powder/mythical_essence" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/blaze_powder/legendary_essence" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/blaze_powder/wither_essence" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/blaze_powder/crimson_essence" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/blaze_powder/orange_essence" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/blaze_powder/green_essence" }
+		]
+}

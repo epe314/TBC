@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/thin_block",
+	"textures": {
+		"1": "gaf/block/building/door/warped_trapdoor_additional",
+		"particle": "block/warped_trapdoor",
+		"texture": "block/warped_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 13, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [3, 0, 0, 16], "rotation": 90, "texture": "#1", "cullface": "north"},
+				"east": {"uv": [3, 0, 0, 16], "rotation": 90, "texture": "#1", "cullface": "east"},
+				"south": {"uv": [3, 0, 0, 16], "rotation": 90, "texture": "#1", "cullface": "south"},
+				"west": {"uv": [3, 0, 0, 16], "rotation": 90, "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		}
+	]
+}
