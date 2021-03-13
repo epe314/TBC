@@ -27,6 +27,7 @@
           {"predicate": {"custom_model_data": 21}, "model": "item/golden_pickaxe/spinel_hammer_3"},
           {"predicate": {"custom_model_data": 22}, "model": "item/golden_pickaxe/kanari_hammer"},
           {"predicate": {"custom_model_data": 23}, "model": "item/golden_pickaxe/kanari_hammer_2"},
-          {"predicate": {"custom_model_data": 24}, "model": "item/golden_pickaxe/kanari_hammer_3"}
+          {"predicate": {"custom_model_data": 24}, "model": "item/golden_pickaxe/kanari_hammer_3"},
+		  {"predicate": {"custom_model_data": 25}, "model": "item/golden_pickaxe/stone_hammer"}
        ]
   }
