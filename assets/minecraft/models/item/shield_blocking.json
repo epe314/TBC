@@ -30,9 +30,5 @@
             "scale": [ 0.65, 0.65, 0.65 ]
         }
     },
-	"overrides": [
 
-	{"predicate": {"custom_model_data":1}, "model": "item/custom_shield/0_blocking"}
-
-]
 }
