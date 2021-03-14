@@ -4,8 +4,8 @@
 		"layer0": "item/book"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/book/black_book" },
-		{ "predicate": { "custom_model_data": 2}, "model": "item/book/black_ebook" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/book/os_black" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/book/os_blue" },
 		{ "predicate": { "custom_model_data": 3}, "model": "item/book/blue_ebook" },
 		{ "predicate": { "custom_model_data": 4}, "model": "item/book/brown_ebook" },
 		{ "predicate": { "custom_model_data": 5}, "model": "item/book/green_book" },
